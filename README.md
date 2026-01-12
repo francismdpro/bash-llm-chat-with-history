@@ -23,7 +23,7 @@ Un client de chat en ligne de commande pour l'API OpenRouter, écrit en Bash. Ce
 
 ```bash
 # Télécharger le script
-wget https://raw.githubusercontent.com/[votre-repo]/openrouter-chat/main/chat.sh
+wget https://raw.githubusercontent.com/francismdpro/openrouter-chat/main/chat.sh
 
 # Rendre le script exécutable
 chmod +x chat.sh
