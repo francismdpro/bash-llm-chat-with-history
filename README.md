@@ -1,1 +1,32 @@
-# bash-llm-chat-with-history
+# OpenRouter Chat CLI
+
+Un client de chat en ligne de commande pour l'API OpenRouter, écrit en Bash. Ce script permet d'interagir avec différents modèles d'IA (GPT-4, Claude, Llama, Gemini, etc.) directement depuis votre terminal, avec gestion complète des conversations et historique [web:30].
+
+## ✨ Fonctionnalités
+
+- 💬 **Chat interactif** en ligne de commande
+- 💾 **Sauvegarde et chargement** de conversations
+- 🔄 **Changement de modèle** à la volée
+- 📋 **Gestion d'historique** avec timestamps
+- 🎯 **Support de multiples modèles** OpenRouter (gratuits et payants)
+- 🔐 **Configuration persistante** de la clé API
+- 🎨 **Interface claire** avec commandes intuitives
+
+## 📋 Prérequis
+
+- Bash 4.0 ou supérieur
+- Python 3.6+
+- curl
+- Une clé API OpenRouter (gratuite sur [openrouter.ai](https://openrouter.ai))
+
+## 🚀 Installation
+
+```bash
+# Télécharger le script
+wget https://raw.githubusercontent.com/[votre-repo]/openrouter-chat/main/chat.sh
+
+# Rendre le script exécutable
+chmod +x chat.sh
+
+# Optionnel : déplacer vers un répertoire dans votre PATH
+sudo mv chat.sh /usr/local/bin/openrouter-chat
