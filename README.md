@@ -1,6 +1,6 @@
 # OpenRouter Chat CLI
 
-Un client de chat en ligne de commande pour l'API OpenRouter, écrit en Bash. Ce script permet d'interagir avec différents modèles d'IA (GPT-4, Claude, Llama, Gemini, etc.) directement depuis votre terminal, avec gestion complète des conversations et historique [web:30].
+Un client de chat en ligne de commande pour l'API OpenRouter (avec des modèles gratuits), écrit en Bash. Ce script permet d'interagir avec différents modèles d'IA (GPT-4, Claude, Llama, Gemini, etc.) directement depuis votre terminal, avec gestion complète des conversations et historique.
 
 ## ✨ Fonctionnalités
 
