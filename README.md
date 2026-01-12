@@ -25,8 +25,11 @@ Un client de chat en ligne de commande pour l'API OpenRouter, écrit en Bash. Ce
 # Télécharger le script
 wget https://raw.githubusercontent.com/francismdpro/openrouter-chat/main/chat.sh
 
-# Rendre le script exécutable
-chmod +x chat.sh
+# Executer
+bash chat.sh
 
-# Optionnel : déplacer vers un répertoire dans votre PATH
-sudo mv chat.sh /usr/local/bin/openrouter-chat
+ou
+
+bash chat.sh -k <clé openrouter.ai>
+
+
